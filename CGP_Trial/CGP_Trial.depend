@@ -1,0 +1,95 @@
+# depslib dependency file v1.0
+1501929964 source:c:\users\xiats\desktop\毕设\cgp_trial\src\cgp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	"cgp.h"
+
+1517849064 c:\users\xiats\desktop\毕设\cgp_trial\src\cgp.h
+
+1517845019 source:c:\users\xiats\desktop\毕设\cgp_trial\src\main.c
+	<stdio.h>
+	<math.h>
+	"cgp.h"
+
+1501929964 source:d:\cgp_trial\src\cgp.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	"cgp.h"
+
+1517845464 d:\cgp_trial\src\cgp.h
+
+1517845019 source:d:\cgp_trial\src\main.c
+	<stdio.h>
+	<math.h>
+	"cgp.h"
+
+1517959664 source:d:\cgp_trial\example\main.c
+	<stdio.h>
+	<math.h>
+	"../src/cgp.h"
+
+1524918719 source:c:\users\xiats\desktop\毕设\cgp_trial\example\trainingcube.c
+	<stdio.h>
+	<math.h>
+	"../src/cgp.h"
+	"../src/xt.h"
+	"cgp-sls.h"
+
+1520270769 source:c:\users\xiats\desktop\毕设\cgp_trial\example\main.c
+	<stdio.h>
+	<math.h>
+	"../src/cgp.h"
+
+1524789174 c:\users\xiats\desktop\毕设\cgp_trial\src\xt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../src/cgp.h"
+	"../example/cgp-sls.h"
+
+1524517139 c:\users\xiats\desktop\毕设\cgp_trial\example\cgp-sls.h
+
+1524520254 source:c:\users\xiats\desktop\毕设\cgp_trial\example\cgp-sls.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	"cgp-sls.h"
+
+1524520254 source:z:\project demo\cgp_trial\example\cgp-sls.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	<math.h>
+	<float.h>
+	"cgp-sls.h"
+
+1524517139 z:\project demo\cgp_trial\example\cgp-sls.h
+
+1525180628 source:z:\project demo\cgp_trial\example\trainingcube.c
+	<stdio.h>
+	<math.h>
+	"../src/cgp.h"
+	"../src/xt.h"
+	"cgp-sls.h"
+
+1517849064 z:\project demo\cgp_trial\src\cgp.h
+
+1524789174 z:\project demo\cgp_trial\src\xt.h
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"../src/cgp.h"
+	"../example/cgp-sls.h"
+
